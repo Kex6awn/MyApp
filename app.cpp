@@ -1,3 +1,5 @@
+// Author:         Francis K. Ferdinard
+
 #include <iostream>
 #include <vector>
 #include <utility>
